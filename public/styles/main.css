@@ -182,7 +182,6 @@ h2 {
   }
 
   #nav-bar {
-    background-color: black;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -225,6 +224,8 @@ h2 {
     margin-left: auto;
     margin-right: auto;
   }
+
+  
 
 }
 
