@@ -1,7 +1,7 @@
 {
-  "name": "blog",
+  "name": "grum-tunnel",
   "version": "1.0.0",
-  "description": "blog",
+  "description": "grum-tunnel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
